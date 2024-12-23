@@ -13,6 +13,8 @@ pip install -r requirements.txt
 python3 iyakmoyak.py
 ```
 
+apikeys.py 의 내용을 채워줍니다.
+
 ## 설명
 
 식품의약품 안전처 API 사용
